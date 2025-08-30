@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.12+-red.svg)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green.svg)
+ 
 
 This project explores **two different approaches** for detecting lane markings from road images/videos:
 
@@ -42,7 +43,7 @@ It follows a step-by-step pipeline:
 #### 🎥 Demonstration
 A demo video showing this pipeline applied to real driving footage is included in the repository:  
 
-[▶️ Watch Classical CV Lane Detection Demo](video_demo_classical.mp4)
+[▶️ Watch Classical CV Lane Detection Demo](https://github.com/vnayakde/lane_detection/blob/main/output_lane_detected.mp4)
 
 ---
 
@@ -100,7 +101,7 @@ Full training code is available in the Kaggle notebook:
 - Post-processing overlays these masks on the original frame to visualize detected lanes.  
 
 Example visualization:  
-![ENet Lane Detection](result_enet.png)  
+![ENet Lane Detection](https://github.com/vnayakde/lane_detection/blob/main/download.png)  
 *(Left: Input Image | Right: ENet Predicted Mask)*  
 
 ---

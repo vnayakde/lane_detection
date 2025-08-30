@@ -4,7 +4,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.12+-red.svg)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green.svg)
  
-
+![ENet Lane Detection](https://github.com/vnayakde/lane_detection/blob/main/Screenshot%20from%202025-08-30%2020-32-42.png)  
 This project explores **two different approaches** for detecting lane markings from road images/videos:
 
 1. **Classical Computer Vision (OpenCV + Hough Transform)**  

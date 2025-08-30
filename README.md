@@ -42,8 +42,7 @@ It follows a step-by-step pipeline:
 
 #### 🎥 Demonstration
 A demo video showing this pipeline applied to real driving footage is included in the repository:  
-
-[▶️ Watch Classical CV Lane Detection Demo](https://github.com/vnayakde/lane_detection/blob/main/output_lane_detected.mp4)
+[![Watch the demo](https://img.youtube.com/vi/PCmbYqXYuzs/0.jpg)](https://www.youtube.com/watch?v=PCmbYqXYuzs)
 
 ---
 
@@ -143,7 +142,7 @@ Training notebook:
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 - Dataset labeled via [Roboflow](https://roboflow.com)  
 - ENet architecture reference: *"ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation"*  
 

@@ -136,20 +136,6 @@ Training notebook:
 
 ---
 
-## 🖼️ Results
-
-Both approaches were tested and compared:
-
-### Classical CV (Hough Transform)
-![Classical Lane Detection](result_classical.png)  
-*(Example using OpenCV edge + Hough Transform pipeline)*  
-
-### Deep Learning (ENet Segmentation)
-![ENet Lane Detection](result_enet.png)  
-*(Left: Input | Right: ENet Predicted Lane Mask)*  
-
----
-
 ## 📌 Future Work
 - Train and compare **SCNN, SegNet, and ENet** for lane segmentation  
 - Extend dataset to diverse conditions (night, rain, occlusion)  
